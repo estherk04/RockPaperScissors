@@ -28,5 +28,5 @@ public class GameResult {
         System.out.println("Result: " + result);
     }
 
-    // Optionally: Add getters for use in a frontend
+
 }
